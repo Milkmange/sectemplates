@@ -1,5 +1,7 @@
 # Bug Bounty Program Pack Updates
 
+12/28/2025 - v1.2 Added additional metric, and additional sample safe harbor example. 
+* Thanks to <a href="https://github.com/ykosaraju/">Yashvier</a> for the metric suggestion.
 
 8/25/2024 - v1.1 of the diagram and runbook updated to improve communication/workflow on researcher payouts. Also brief disclaimer about when to include a bounty program in the preparation guide. 
   * Thanks to <a href="https://github.com/xaitax">Alexander Hagenah</a> (<a href="https://x.com/xaitax">@xaitax</a>) for calling out workflow communication concerns. <br>

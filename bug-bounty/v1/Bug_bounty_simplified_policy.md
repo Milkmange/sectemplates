@@ -24,7 +24,7 @@ Prior to performing testing on the site, you must observe and agree to the follo
   * Please create testing accounts with 'bugbounty' in the username, for example, 'DanKam-bugbounty,' to clearly indicate your account is bug bounty-related. This helps us troubleshoot possible issues resulting from the testing you are performing.
 
 ## Safe Harbor
-We are not lawyers, we recommend reviewing <a href="https://www.microsoft.com/en-us/msrc/bounty-safe-harbor">Microsoft's bug bounty safe harbor language</a> and consult with your legal team. 
+First, we’re not lawyers and can’t give you legal advice. We suggest reviewing both <a href="https://www.microsoft.com/en-us/msrc/bounty-safe-harbor">Microsoft’s bug bounty safe harbor language</a> and <a href="https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor">GitHub’s</a> with your legal team as reference material, so they can draft a version that works best for your company.
 
 
 ## Bounty Eligibility 

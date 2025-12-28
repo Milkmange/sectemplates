@@ -27,4 +27,7 @@ By charting and measuring specific vulnerability classifications, you gain signa
   * Poor error handling resulting in stack traces and sensitive information being disclosed.
 This information can then be provided to your product security and engineering teams to tackle common issues strategically and proactively.
 
-Metrics version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+## Volume Based on Severity
+This helps determine the severity of submissions you are getting. As you mature your program, you can try different things to try and increase the P0/P1 submissions. For example, increased campaign payouts to attract security researcher interest.
+
+Metrics version 1.1 copied from [Sectemplates.com](https://www.sectemplates.com)

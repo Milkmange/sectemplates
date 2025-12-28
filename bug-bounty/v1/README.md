@@ -1,4 +1,4 @@
-# Introduction to the Bug Bounty Program Pack v1.1
+# Introduction to the Bug Bounty Program Pack v1.2
 The goal of this release is to provide you with everything you need to establish a bug bounty program. This includes alignment with stakeholders, working with a vendor, establishing a private bug bounty, and ultimately moving to a public bug bounty. This release pack is not sponsored or influenced by any particular bug bounty vendor and is neutral to vendor biases and influence.
 <br><br>
 &#45; Robert Auger (<a href="https://x.com/robertauger">@robertauger</a>)<br><br>
@@ -27,7 +27,6 @@ A <a href="./Bug_bounty_runbook.md">runbook</a> the security team can use to ens
 This <a href="./Bug_bounty_metrics.md">file contains sample, baseline metrics</a> for tracking your bug bounty program and reporting on it internally.
 
 # Bug Bounty Frequently Asked Questions
-
 <b>Question:</b> Do you recommend using a particular bug bounty provider?<br>
 <b>Answer: </b> No, the goal of this pack is to be vendor-neutral and not lean towards one provider over another. Before selecting a vendor, you should perform a bake-off to determine which vendor works best for your situation. 
 <br><br>
@@ -39,4 +38,4 @@ This <a href="./Bug_bounty_metrics.md">file contains sample, baseline metrics</a
 <b>Answer: </b> This program pack utilizes a modified version of Creative Commons Attribution-NonCommercial 4.0 International. Specific modifications can be found under 'Custom Addendum for Commercial Packaging'.
 
 
-Document version 1.1 copied from [Sectemplates.com](https://www.sectemplates.com)
+Document version 1.2 copied from [Sectemplates.com](https://www.sectemplates.com)
